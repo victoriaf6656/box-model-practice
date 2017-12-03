@@ -4,24 +4,35 @@
     border: 1px solid red;
     font-family: 'Oswald', sans-serif;
     text-align: center;
+    
 }
 
 #title {
     background: yellow;
-    /*add CSS here*/
+    margin:auto;
+    margin-top:100px;
+    margin-right:100px;
+    margin-bottom:25px;
+    margin-left:100px;
+    padding: 25px 50px 25px 50px;
     
 }
 
 #subtitle {
     background: black;
     color: white;
-    /*add CSS here*/
+    margin:auto;
+    margin-right:100px;
+    margin-left:100px;
+    margin-bottom:75px;
+    padding: 0px 50px 0px 50px;
     
 }
 
 .topic {
     background: lightgray;
-    /*add CSS here*/
+    margin-left:100px;
+    margin-right:0px;
     
 }
 
